@@ -13,7 +13,7 @@
 ## 📁 Dataset
 
 - Nombre detectado en el notebook: **Relación entre las redes sociales y la salud mental_comas.csv**
-- Fuente: descargado desde **Kaggle** (por favor, agrega el enlace al dataset original si lo deseas). 🔗
+- Fuente: descargado desde **Kaggle**
 
 **Nota:** el archivo CSV debe estar disponible en la ruta indicada en el notebook (`/content/Relación entre las redes sociales y la salud mental_comas.csv`) o actualizar la ruta antes de ejecutar las celdas.
 
@@ -63,5 +63,3 @@ Proyecto realizado como trabajo final del **Bootcamp TalentoTech**. Si quieres c
 ## 📬 Contacto
 
 Si quieres mejorar este README o necesitas ayuda integrando el dataset en la estructura del repo, contáctame o crea un issue. 💬
-
-**¡Éxitos con el proyecto! 🚀**
